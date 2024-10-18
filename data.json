@@ -1,0 +1,63 @@
+{
+    "movies": [
+        {
+            "title": "Asphalt",
+            "year": 1929,
+            "genre": "Drama",
+            "director": "Joe May",
+            "description": "Asphalt is a German black-and-white film that perfectly encapsulates the melodrama and character driven stories of the era. Gustav Fröhlich, known for his leading role in \"Metropolis\", stars in this film as a dutiful police officer. His routine existence is turned upside down when the leading lady, Betty Amann, the beautiful thief, changes his life forever. With incredible cinematography and impressive sets, this movie stands the test of time as one of the greats.",
+            "url": "./images/Asphalt.jpg"
+        },
+        {
+            "title": "Scooby-Doo 2: Monsters Unleashed",
+            "year": 2004,
+            "genre": "Adventure",
+            "director": "Raja Gosnell",
+            "description": "Scooby and the gang have the fame, but a phantom monster plots to take them and their reputation down. With the reappearance of countless enemies they had previously defeated, the gang must uncover the mastermind behind this evil.",
+            "url": "./images/Scooby_Doo_Poster.jpg"
+        },
+        {
+            "title": "Barbie & the Diamond Castle",
+            "year": 2008,
+            "genre": "Musical",
+            "director": "Gino Nichele",
+            "description": "In this whimsical movie watch Liana and Alexa, Liana’s “roommate” and best friend, have their friendship tested as they go on a journey to find the mystical Diamond Castle. Throughout their journey, they use the power of music to stay connected with each other and find love.",
+            "url": "./images/Barbie.jpg"
+        },
+        {
+            "title": "Big Man Japan",
+            "year": 2007,
+            "genre": "Mockumentary",
+            "director": "Hitoshi Matsumoto",
+            "description": "This movie is unlike any mockumentaries that have come from the West. Matsumoto, the director and leading man, play Masaru Daisatô. He comes from a long line of man who, with the power of electricity, are able to transform into giants. Interspliced between interview style scenes with Daisatô and the people around him, are scenes of grand monster battles. This movie is a blast to watch with friends, and will have you laughing until you cry!",
+            "url": "./images/Big_Man_Japan.jpg"
+        }
+        
+    ],
+    "plushies": [
+        {
+            "name": "Big Seal",
+            "size": "Large",
+            "url": "./images/Big_Seal.jpg",
+            "description": "Big Seal is a very large and punchable plushie. He will fit perfectly into your lap and is a great emotional support for watching thrillers like “Scooby-Doo 2: Monsters Unleashed.” He loves to be embraced and enjoys all movies of any genre."
+        },
+        {
+            "name": "Manuelito",
+            "size": "Medium",
+            "url": "./images/Manuelito.jpg",
+            "description": "He is the perfect buddy to cuddle up and watch a movie with! Manuelito is a weighted cheetah who loves sci-fi movies, his favorite one is \"Gattaca\"! Manuelito gets a little scared during horror movies, some might call him a scaredy-cat, but if you give him a hug all his fears will go away. When watching movies, he enjoys eating snickerdoodle cookies with a glass of hot chocolate. Manuelito would love to go watch movies with you!"
+        },
+        {
+            "name": "Capt'n",
+            "size": "Small",
+            "url": "./images/Captn.jpg",
+            "description": "Due to his wide-set eyes, Capt&apos;n cannot see the TV very well and tends to enjoy musicals. He is a good plushie to hold in your hand and squeeze. You can use him as a microphone while watching “Barbie & the Diamond Castle” and singing along to the songs."
+        },
+        {
+            "name": "Big Chicken",
+            "size": "Medium",
+            "url": "./images/BigChicken.jpg",
+            "description": "Big Chicken is a wonderful movie buddy! She loves to watch horror movies. Her favorite one is \"Midsommar\". She watches that one at least one a year. Big Chicken hasn't seen that many romantic movies, the last one she'd seen is \"La La Land\", and she cried for a week, so she is a little hesitant on the genre. If a caring friend were to introduce her to more though, she would be happy to watch! Take Big Chicken home with you and be jump scared by horror movies together!"
+        }
+    ]
+}

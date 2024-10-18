@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <title>FLUFFnFLIX</title>
+
+    <style>
+      html * {
+        font-family:cursive;
+        background-color: #c7acfe;
+      }
+      .card-body{
+        background-color: rgb(255, 255, 255);
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+        <nav>
+          <div class="container" style="padding-top: 20px; text-align: left;">
+            <strong>FLUFFnFLIX</strong>
+          </div>
+
+          <!-- The padding-right at the end was because I didn't really feel like it was centered -->
+          <ul style="text-align: center; padding-top: 10px; font-size: 20px; padding-right: 58px">
+              <a href="./index.html">Movies </a>
+              <!--This code adds a two space gap-->
+              &ensp; 
+              <a href="./plushies.html">Plushies</a>
+              &ensp;
+              <a href="./about.html">About Us</a>
+          </ul>
+      </nav>
+    </header>
+
+    <section> 
+      <h1 style="text-align: center; padding-top: 15px;">Movies</h1>
+    </section>
+
+    <div class="album py-5 bg-body-tertiary; style= color: #5a23c8">
+        <div class="container;">
+            <div id="col" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3"></div>
+        </div>
+    </div>
+
+    <script src="./index.js"></script>
+    <script>movies();</script>
+
+    <footer class="text-body-secondary py-5">
+      <div class="container">
+        <p class="mb-1">FLUFFnFLIX 2024</p>
+        <p>
+          Emma Zatkalik
+        <br>
+          Simone Banks
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
